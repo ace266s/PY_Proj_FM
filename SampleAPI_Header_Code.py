@@ -8,6 +8,6 @@
 
 import requests
 headers = {
-    'X-API-KEY': config.api_key,
+    '_7l3tcaVyqh_dzSUdP2P79g': config.api_key,
 }
 result = requests.post(api_url, data=json.dumps(post_data), headers=headers)
