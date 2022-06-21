@@ -1,5 +1,5 @@
-
-$L=[
+<?.php>
+$T=[
 	'all'		=>	'All',
 	'all_legitimate'=>	'All legitimate',
 	'lastadded'	=>	'Last added',
@@ -65,7 +65,7 @@ $L=[
 	'testoffline'	=>	'No, the service is offline!',
 	'testphishing'	=>	'Warning, this is a known phishing clone. The original site is located at %s.',
 	'unknown'	=>	'Unknown',
-	'language'	=>	'english',
+	'language'	=>	'English',
 	'format'	=>	'Format',
 	'hidelocked'	=>	'Hide locked',
 	'pendingapproval'    => 'Pending approval',
